@@ -1,0 +1,9 @@
+*.png
+env/
+__pycache__/
+requirements.txt
+*.nii
+../concentration-inference/.idea/
+*.pdf
+.idea
+.DS_Store
